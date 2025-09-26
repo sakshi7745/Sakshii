@@ -5,7 +5,8 @@
 
 ## Demo
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-26 103020" src="https://github.com/user-attachments/assets/8636a162-8d56-4937-8019-e106c0cff9ce" />
+<img width="1916" height="912" alt="image" src="https://github.com/user-attachments/assets/12689633-7872-4aa8-a480-b2f25f869d79" />
+
 
 
 ---

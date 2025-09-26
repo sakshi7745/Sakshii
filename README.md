@@ -39,17 +39,15 @@ Navigate to the project folder:
 
 cd my-app
 
-
-Install dependencies:
+2. Install dependencies:
 
 npm install
 
-
-Start the development server:
+3. Start the development server:
 
 npm start
 
-Folder structure
+4. Folder structure
 my-app/
 ├── node_modules/
 ├── public/

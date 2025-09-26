@@ -4,8 +4,8 @@
 ---
 
 ## Demo
+<img width="1913" height="890" alt="Screenshot 2025-09-26 103020" src="https://github.com/user-attachments/assets/335e213c-7860-4f34-9e07-e57a107f0d6e" />
 
-<img width="1916" height="912" alt="image" src="https://github.com/user-attachments/assets/12689633-7872-4aa8-a480-b2f25f869d79" />
 
 
 
